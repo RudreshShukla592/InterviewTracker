@@ -42,7 +42,7 @@ A simple and lightweight **Interview Practice Tracker** built with React and Tai
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:RudreshShukla592/InterviewTracker.git
+git clone https://github.com/RudreshShukla592/InterviewTracker
 ```
 
 ### 2. Navigate into the project
